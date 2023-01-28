@@ -1,0 +1,14 @@
+h1 {
+  text-align: center;
+  margin-top: 4rem;
+  text-transform: capitalize;
+}
+
+td{
+  color: black;
+  align-items: center;
+  text-align: center;
+}
+thead{
+  text-align: center;
+}
